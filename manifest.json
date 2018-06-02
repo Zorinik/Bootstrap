@@ -1,0 +1,13 @@
+{
+	"name": "Bootstrap",
+	"description": "Integration with Bootstrap 4 (via CDN)",
+	"version": "0.0.1",
+	"dependencies": {},
+	"css": [
+		"https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css"
+	],
+	"js": [
+		"https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js",
+		"https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js"
+	]
+}
